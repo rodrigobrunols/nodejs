@@ -1,0 +1,25 @@
+{
+  "name": "nodeturorial",
+  "version": "1.0.0",
+  "description": "Repositório para testes e estudos em projetos nodejs ###",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigobrunols/nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "estudos",
+    "testes"
+  ],
+  "author": "leoncio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigobrunols/nodejs/issues"
+  },
+  "homepage": "https://github.com/rodrigobrunols/nodejs#readme"
+}
